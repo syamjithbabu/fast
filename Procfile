@@ -1,0 +1,1 @@
+web: gunicornnewpro.wsgi --log-file-
